@@ -8,7 +8,7 @@ The system utilizes an **Arduino Nano** and an **HC-05 Bluetooth module** to est
 
 ---
 
-<img src="https://github.com/Deepakumar-Developer/bun_company_automation/tree/main/assets/image.jpg" width="400"/>
+<img src="https://github.com/Deepakumar-Developer/bun_company_automation/blob/main/assets/image.jpg" width="400"/>
 
 ## 2. Key Features
 
